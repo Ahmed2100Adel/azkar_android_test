@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اذكار</string>
+    <string name="azSpah">اذكار الصباح</string>
+    <string name="azMsa">اذكارالمساء</string>
+    <string name="aznom">اذكار قبل النوم</string>
+    <string name="azhouse">اذكار دخول المسجد</string>
+    <string name="azfood">اذكار الطعام</string>
+    <string name="azmosq">اذكار دخول المسجد</string>
+    <string name="azfinishpray">اذكار بعد الصلام</string>
+    <string name="azgetoutMosq">اذكار بعد الصلام</string>
+    <string name="azazan">اذكار الاذان</string>
+    <string name="stop"> اوقف الدعاء</string>
+    <string name="noti">اظهر الاشعارات</string>
+</resources>
